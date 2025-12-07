@@ -1,37 +1,35 @@
 # Medication Reminder Android App
 
-An Android application designed to help users manage and remember their medication schedules effectively.  
-This app aims to reduce missed doses and improve medication adherence through simple reminders and tracking features.
+An Android application to help users manage and remember their medication schedules.
+Designed to reduce missed doses and improve medication adherence.
 
 ---
 
-## 📱 Features
+## Features
 - User authentication (Login & Register)
-- Medication management (add, edit, delete medications)
+- Medication management (add, edit, delete)
 - Daily medication reminders
 - Medication history tracking
-- Simple and user-friendly interface
+- Simple and user-friendly UI
 
 ---
 
-## 🛠 Tech Stack
-- **Platform:** Android (Java / Kotlin)
-- **Build System:** Gradle
-- **Architecture:** Native Android
-- **Backend:** Firebase (Authentication & Realtime Database)
+## Tech Stack
+- Android (Java / Kotlin)
+- Gradle
+- Firebase Authentication
+- Firebase Realtime Database
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Android Studio (latest version recommended)
-- Java / Kotlin support
-- Internet connection (required for Firebase)
-
----
+- Java or Kotlin
+- Internet connection (Firebase requirement)
 
 ### Installation
-1. Clone this repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/ZylDEV/medication-reminder-android.git
